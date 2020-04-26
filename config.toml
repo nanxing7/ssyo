@@ -129,8 +129,8 @@ disqusShortname = "yourdiscussshortname"
                 weight = 6
                 url  = "/goal/"
             [[languages.zh-cn.menu.main]]
-                name = "扯淡"
+                name = "文章列表"
                 weight = 7
-                url  = "https://tg.bmpi.dev"
+                url  = "/posts/"
 
 googleAnalytics = "UA-163288755-1"
