@@ -93,7 +93,7 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.zh-cn]
         languagename = "Chinese"
-        title = "构建我的被动收入"
+        title = "终身学习"
 
         [languages.zh-cn.params]
             author = "ssyo"
