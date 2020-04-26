@@ -1,8 +1,6 @@
 baseurl = "https://ssyo.netlify.app"
 title = "johndoe"
-
 theme = "hugo-coder"
-
 languagecode = "zh-cn"
 defaultcontentlanguage = "zh-cn"
 
@@ -16,10 +14,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "ssyo"
+    info = "self 🐶 dev 🐱 money"
+    description = "Self-management + IT technology + Investment transactions = build my passive income"
+    keywords = "life,dev,trade,passive income,money,developer,Self-management,IT technology,investment transactions"l"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
@@ -61,7 +59,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/sanyuedev/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
@@ -71,7 +69,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/sanyue17/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
