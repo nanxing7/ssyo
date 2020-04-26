@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     footercontent = "Enter a text here."
 
     # dateformat = "January 2, 2006"
-    dateformat = "2006.01.02"
+    dateformat = "一月 2, 2006"
 
     hideFooter = false
     hideCredits = false
