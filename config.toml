@@ -14,6 +14,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
+    googleAnalytics = "UA-164506926-1"
     author = "ssyo"
     info = "self 🐶 dev 🐱 money"
     description = "Self-management + IT technology + Investment transactions = build my passive income"
@@ -133,5 +134,4 @@ disqusShortname = "yourdiscussshortname"
                 name = "文章列表"
                 weight = 7
                 url  = "/posts/"
-
 googleAnalytics = "UA-164506926-1"
