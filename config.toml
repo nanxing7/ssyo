@@ -126,9 +126,9 @@ googleAnalytics = "UA-164506926-1"
                 weight = 5
                 url  = "/project/"
             [[languages.zh-cn.menu.main]]
-                name = "目标"
+                name = "分类"
                 weight = 6
-                url  = "/goal/"
+                url  = "/categories/"
             [[languages.zh-cn.menu.main]]
                 name = "文章列表"
                 weight = 7
