@@ -61,31 +61,31 @@ googleAnalytics = "UA-164506926-1"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/sanyuedev/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#     name = "Gitlab"
+#     icon = "fab fa-gitlab"
+#     weight = 2
+#     url = "https://gitlab.com/johndoe/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
     url = "https://twitter.com/sanyue17/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
+# [[params.social]]
+#     name = "LinkedIn"
+#     icon = "fab fa-linkedin"
+#     weight = 4
+#     url = "https://www.linkedin.com/in/johndoe/"
+# [[params.social]]
+#     name = "Medium"
+#     icon = "fab fa-medium"
+#     weight = 5
+#     url = "https://medium.com/@johndoe"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://blog.ssyo.top/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
