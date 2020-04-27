@@ -118,13 +118,13 @@ googleAnalytics = "UA-164506926-1"
                 weight = 3
                 url  = "/dev/"
             [[languages.zh-cn.menu.main]]
-                name = "被动收入"
-                weight = 4
-                url  = "/money/"
-            [[languages.zh-cn.menu.main]]
                 name = "项目"
-                weight = 5
+                weight = 4
                 url  = "/project/"
+            [[languages.zh-cn.menu.main]]
+                name = "标签"
+                weight = 5
+                url  = "/tags/"
             [[languages.zh-cn.menu.main]]
                 name = "分类"
                 weight = 6
