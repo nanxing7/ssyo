@@ -23,3 +23,7 @@ hugo new posts/文章名.md
 
 文章名中间不能有空格
 
+要发布文章必须把 draft 的值改为 true
+
+title 也必须写内容
+
