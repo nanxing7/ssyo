@@ -5,7 +5,7 @@ title = ""
 description = ""
 slug = "" 
 tags = []
-categories = [SpringBoot]
+categories = ["SpringBoot"]
 externalLink = ""
 series = []
 
