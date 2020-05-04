@@ -7,7 +7,7 @@ defaultcontentlanguage = "zh-cn"
 paginate = 20
 canonifyurls = false
 
-pygmentsstyle = "b2"
+pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
