@@ -11,7 +11,7 @@ pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "ssyo"
+disqusShortname = "sanyue"
 googleAnalytics = "UA-164506926-1"
 [params]
     author = "ssyo"
